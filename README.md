@@ -66,7 +66,7 @@ A six-week project plan for developing the requirements will be added in 1 week 
 - Create user registration and login functionality.
 - Use JWT tokens for authentication and authorization of users.
 
-### Week 6: Testing, Refinement, Documentation and
+### Week 6: Testing, Refinement, Documentation and Demo
 - Perform comprehensive testing of the entire application, including unit tests and integration tests.
 - Fix any bugs or issues discovered during testing.
 - Optimize the application for performance and responsiveness.
